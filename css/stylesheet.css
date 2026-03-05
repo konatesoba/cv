@@ -131,7 +131,7 @@ section#contact i.fa{
 }
 
 section#profil{
-	width:50%;max-width:340px;margin-bottom:20px;
+	width:90%;margin-bottom:20px;
 }
 
 section#profil p{
@@ -156,7 +156,7 @@ section.mainsection section div>p{
 }
 
 section.mainsection section>h3{
-	padding-top:15px;display:inline-block;
+	padding-top:15px;/*display:inline-block;*/
 }
 
 section#experiences section>h3{
